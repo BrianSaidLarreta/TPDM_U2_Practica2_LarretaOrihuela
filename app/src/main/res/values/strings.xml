@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica2_Larreta</string>
+    <string-array name="seguros" >
+        <item>Casa</item>
+        <item>Auto</item>
+        <item>Médico</item>
+    </string-array>
+</resources>
